@@ -1,0 +1,39 @@
+#main{
+  margin: 30px 0;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#title{
+  height: 100px;
+  width: 400px;
+  line-height: 20px;
+  text-align: center;
+  margin: 10px auto;
+  border: 1px solid black;
+}
+#img-div{
+    margin: -5px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    border: 5px solid white;
+    background: white;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+#tribute-info{
+  width: 700px;
+  margin: 0 auto;
+}
+#link-div{
+  text-align: center;
+}
